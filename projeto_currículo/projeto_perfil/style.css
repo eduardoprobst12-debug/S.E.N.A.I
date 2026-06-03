@@ -1,0 +1,27 @@
+span {
+    color:blue
+}
+
+#first {
+    color: orangered
+}
+
+.second {
+    color:black
+    font-size: 64px;
+    font-weight: 100;
+}
+span {
+    color: magenta
+}
+
+#third {
+    color:orange;
+    font-size: 64px;
+    font-weight: 100;
+}
+#fourth {
+    font-weight: 30;
+    font-size: 10px;
+    color: dimgrey;
+}
