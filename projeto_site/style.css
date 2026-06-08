@@ -1,0 +1,23 @@
+body {
+    background-color: #E3F2FD;
+}
+
+main {
+    background-color: white;
+}
+
+span {
+    color: red;
+}
+
+h1 {
+    color: white;
+}
+
+.bg-blue {
+    background-color: rgb(255, 123, 0);
+}
+
+.footer-text {
+    background-color: rgb(255, 123, 0);
+}
