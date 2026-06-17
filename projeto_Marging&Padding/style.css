@@ -1,0 +1,32 @@
+body {
+    background-color: #1A1A2E;
+}
+
+
+h1 {
+    color: #00D4FF;
+}
+
+
+#color-1 {
+    background-color: #1565C0;
+    margin: 20px;
+    padding: 16px;
+    color: white;
+}
+
+
+#color-2 {
+    background-color: #2E7D32;
+    margin: 40px;
+    padding: 1px;
+    color: white;
+}
+
+
+#color-3 {
+    background-color: #E65100;
+    margin: 20px;
+    padding: 16px;
+    color: white;
+}
