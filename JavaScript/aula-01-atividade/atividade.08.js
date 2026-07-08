@@ -1,6 +1,6 @@
-let pontuação= "100"
-pontuação = "150"
-const jogo= "xadrez"
+let pontuacao1 = 100;
+const jogo = "xadrez";
+pontuacao = 150;
 
-console.log("eu possuo ao todo " + pontuação + "pontos")
-console.log("sei lá, bora jogar " + jogo)
+console.log("minha pontuação é de " + pontuacao1 + ", porém, preciso de " + pontuacao + " no jogo de " + jogo)
+
