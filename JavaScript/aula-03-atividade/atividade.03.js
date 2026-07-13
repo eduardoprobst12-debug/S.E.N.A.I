@@ -9,6 +9,4 @@ console.log(idades[5]);
 
 console.log(idades[idades.length]);
 
-idades.forEach(function(item, indice) {
-  console.log(`${indice}: ${item}`);
-});
+console.log(idades[0] + idades[idades.length - 1])
