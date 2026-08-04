@@ -8,4 +8,3 @@ dobro (5);
 dobro (12);
 dobro (0);
 
-//eba, não entendi nada
