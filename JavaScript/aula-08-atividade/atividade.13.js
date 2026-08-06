@@ -1,7 +1,7 @@
  let frutas = ['maçã', 'banana', 'laranja', 'uva']
  let first = frutas.find (function(item) {
 
-    return startsWith(l)
+    return item.startsWith(l)
 
  })
 

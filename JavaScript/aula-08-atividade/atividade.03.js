@@ -6,5 +6,3 @@ let maiusculo = nomes.map (function(item) {
 })
 
 console.log (maiusculo)
-
-//não entendi como faz
