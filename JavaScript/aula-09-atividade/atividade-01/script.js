@@ -1,9 +1,9 @@
-let titulo = document.querySelector ("h1");
+const titulo = document.querySelector ("h1");
+const btn = document.querySelector ("button");
+const resultado = document.querySelector ("#resultado");
 
-titulo.addEventListener ("click", function() {
+btn.addEventListener ("click", function() {
 
-    titulo.textContent = "Manipulação do DOM"
+    resultado.textContent = titulo.textContent
     
 })
-
-//faltando alguma coisa, talvez colocar o ID pro resultado ou alguma class qque eu deveria ter adicionado????????????????????
