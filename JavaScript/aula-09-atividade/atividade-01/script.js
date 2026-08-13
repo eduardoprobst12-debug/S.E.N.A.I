@@ -6,4 +6,4 @@ titulo.addEventListener ("click", function() {
     
 })
 
-//faltando alguma coisa, talvez colocar o ID pro resultado ou alguma class qque eu deveria ter adicionado????????????????????
+//k
